@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  8 JAN 2023 18:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.25)  13 JAN 2023 07:44
 entering extended mode
 **./Eva_Biedron_Resume_2023_Complete.tex
 (Eva_Biedron_Resume_2023_Complete.tex
@@ -331,17 +331,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--140
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--152
-
- []
-
-[3] (Eva_Biedron_Resume_2023_Complete.aux)
+[2] [3] (Eva_Biedron_Resume_2023_Complete.aux)
 Package rerunfilecheck Info: File `Eva_Biedron_Resume_2023_Complete.out' has no
 t changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -363,7 +353,7 @@ onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/15414/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/15414/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/15414/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Eva_Biedron_Resume_2023_Complete.pdf (3 pages, 102790 bytes).
+Output written on Eva_Biedron_Resume_2023_Complete.pdf (3 pages, 102229 bytes).
 
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
